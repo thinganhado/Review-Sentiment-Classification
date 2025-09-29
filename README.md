@@ -3,8 +3,8 @@
 This project builds a **binary classifier** to predict **positive** or **negative** sentiment for short reviews from **Amazon**, **IMDB**, and **Yelp**. It combines **TF IDF features**, a **LinearSVC** classifier, **cross validation**, and **hyperparameter search**.
 
 ## Dataset
-- **Source**: course dataset with labeled reviews for training and testing, domains are **amazon**, **imdb**, **yelp**
-- **Labels**: **0** for negative, **1** for positive
+- **Source**: [Sentiment Labelled Sentences Data Set, Kaggle](https://www.kaggle.com/datasets/marklvl/sentiment-labelled-sentences-data-set)
+- **About**: Short **sentences** from **Amazon**, **IMDB**, and **Yelp**, each sentence has a **binary label** [**0** negative, **1** positive]. Commonly used for **baseline sentiment classification**, **feature exploration**, and **model benchmarking**.
 
 ## Project Overview
 
